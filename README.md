@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Nafis Devtale 👋
 
-<!--
-**nafisdevtale/nafisdevtale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Student | Automation, Robotics & Instrumentation & Control
 
-Here are some ideas to get you started:
+I am passionate about engineering, automation technologies, embedded systems, robotics, and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Exploring
+
+- Embedded Systems
+- Automation Technologies
+- Robotics
+- Instrumentation & Control
+- Research & Development
+
+## Projects
+
+🚧 SAEINDIA TIFAN Project (Work in Progress)
+
+🚧 Embedded Systems Projects (Coming Soon)
+
+🚧 Automation & Robotics Projects (Coming Soon)
+
+## Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/nafis-devtale
+
+Location:
+Pune, Maharashtra, India
